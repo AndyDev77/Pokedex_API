@@ -42,7 +42,7 @@ Le projet a été fait en utilisant les technologies suivantes
 
 ```bash
   # Cloner le dépôt
-  $ git clone
+  $ git clone https://github.com/AndyDev77/Pokedex_API.git
 
   # Entrez dans le dossier du projet
   $ cd my-pokedex
